@@ -15,8 +15,8 @@
 <p>O design mobile do aplicativo foi criado para proporcionar uma experiência otimizada em dispositivos móveis, garantindo fácil acesso e usabilidade em telas menores.</p>
 <h2>Blocos</h2>
 <div align="center">
-<img src="https://github.com/iguinhoGRAU/ProjAnoBissexto/assets/164346454/392c8048-1d3b-478f-960b-76915883b17d" width="500px" />
-<img src="https://github.com/iguinhoGRAU/ProjAnoBissexto/assets/164346454/01032db9-2158-4557-b340-f6704e532c9c" width="500px" height="277px" />
+<img src="https://github.com/iguinhoGRAU/ProjAnoBissexto/assets/164346454/392c8048-1d3b-478f-960b-76915883b17d" width="700px" />
+<img src="https://github.com/iguinhoGRAU/ProjAnoBissexto/assets/164346454/01032db9-2158-4557-b340-f6704e532c9c" width="700px" height="277px" />
 </div>
 <p>Blocos no MIT App Inventor são peças de código visual que se encaixam como peças de um quebra-cabeça. Cada bloco representa uma função, comando ou operação específica. Eles são utilizados para construir a lógica e funcionalidade do aplicativo, substituindo a necessidade de escrever código manualmente.</p>
 
