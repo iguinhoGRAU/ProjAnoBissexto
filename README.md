@@ -10,7 +10,7 @@
 </ul>
 <h2>Design Mobile</h2>
 <div align="center">
-<img src="https://github.com/iguinhoGRAU/ProjCalculadora/assets/164346454/14ad3ff6-5549-43e7-bfe4-a21b7f1bc67d" width="150px" />
+<img src="https://github.com/iguinhoGRAU/ProjAnoBissexto/assets/164346454/1751e0e9-8f3c-4672-958c-cf315b3c806a" width="150px" />
 </div>
 <p>O design mobile do aplicativo foi criado para proporcionar uma experiência otimizada em dispositivos móveis, garantindo fácil acesso e usabilidade em telas menores.</p>
 <h2>Blocos</h2>
